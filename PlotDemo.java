@@ -7,11 +7,11 @@ public class PlotDemo {
 		System.out.println(p);
 		
 
-		System.out.println("Seat is Available? " + p.bookPlot());
+		System.out.println("Plot is Available? " + p.bookPlot());
         	System.out.println(p);
-		System.out.println("Seat is Available? " + p.isAvailable()); 
+		System.out.println("Plot is Available? " + p.isAvailable()); 
         	System.out.println(p);
-       		System.out.println("Seat is Available? " + p1.cancelBooking()); 
+       		System.out.println("Plot is Available? " + p1.cancelBooking()); 
        		System.out.println(p1);
 
 
